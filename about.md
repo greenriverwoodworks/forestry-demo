@@ -1,23 +1,20 @@
 ---
 title: About
-date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+date: '2017-11-01T03:00:00.000+00:00'
+banner_image: "/uploads/2019/08/04/blaz-erzetic-6BIfDxtRLCk-unsplash.jpg"
+heading: About GRW
+sub_heading: ''
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
-publish_date: 2017-12-01 04:00:00 +0000
+textline: ''
+publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
-  navigation:
-    identifier: _about
-    weight: 2
   footer:
     identifier: _about
     weight: 3
+  navigation:
+    identifier: _about
+    weight: 2
+
 ---
-
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
-
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+Green River Woodworks was formally established in 2019. Pete Chrzanowski has a wide array of experience with residential and commercial carpentry. Prior to establishing Green River Woodworks, he worked with local carpentry companies and custom builders. Pete has a degree in Fine Art from Greenfield Community College and over 15 years of experience in carpentry and design. Fully Insured and licensed, he is your custom carpentry solution. Each job is important and Pete has the knowledge and expertise to help his clients select the best custom solution for their home.
