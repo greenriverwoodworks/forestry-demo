@@ -23,6 +23,7 @@ fields:
   description: 'Dimensions: 1200px by 580px'
   config:
     maxSize: '2'
+  default: "/uploads/2019/08/04/FullColor_IconOnly_1024x1024_72dpi.jpg"
 - type: field_group
   name: hero_button
   label: Hero Button
@@ -59,16 +60,13 @@ fields:
     label: Icon
     type: file
     hidden: false
-    default: ''
+    default: "/uploads/2019/08/04/FullColor_IconOnly_1024x1024_72dpi.jpg"
   hidden: false
   default: ''
 - type: boolean
   name: show_news
   label: Show News?
   description: Enables a news section with a twitter feed & latest posts
-- type: image_gallery
-  name: partners
-  label: Partner Logos
 - type: boolean
   name: show_staff
   label: Show Staff?
