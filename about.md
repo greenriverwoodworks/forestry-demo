@@ -16,7 +16,6 @@ menu:
   navigation:
     identifier: _about
     weight: 2
-published: false
 
 ---
 ![](/uploads/2019/08/04/blaz-erzetic-6BIfDxtRLCk-unsplash.jpg)Green River Woodworks was formally established in 2019. Pete Chrzanowski has a wide array of experience with residential and commercial carpentry. Prior to establishing Green River Woodworks, he worked with local carpentry companies and custom builders. Pete has a degree in Fine Art from Greenfield Community College and over 15 years of experience in carpentry and design. Fully Insured and licensed, he is your custom carpentry solution. Each job is important and Pete has the knowledge and expertise to help his clients select the best custom solution for their home.
