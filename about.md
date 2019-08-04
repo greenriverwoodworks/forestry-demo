@@ -1,11 +1,11 @@
 ---
 title: About
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2019/08/04/blaz-erzetic-6BIfDxtRLCk-unsplash.jpg"
+banner_image: ''
 heading: About GRW
 sub_heading: ''
 layout: landing-page
-textline: ''
+textline: "![](/uploads/2019/08/04/blaz-erzetic-6BIfDxtRLCk-unsplash.jpg)"
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 services: []
