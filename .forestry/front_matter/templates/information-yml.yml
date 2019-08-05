@@ -7,45 +7,30 @@ fields:
   type: text
   hidden: false
   default: ''
+  description: pete@greenriverwoodworks.com
 - name: phone
   label: Phone
   type: text
   hidden: false
   default: ''
-- name: address_1
-  label: Address 1
-  type: text
-  hidden: false
-  default: ''
-- name: address_2
-  label: Address 2
-  type: text
-  hidden: false
-  default: ''
+  description: 413-522-0583
 - name: city
   label: City
   type: text
   hidden: false
   default: ''
+  description: Greenfield
 - name: state
   label: State
   type: text
   hidden: false
   default: ''
+  description: MA
 - name: postal_code
   label: Postal code
   type: text
   hidden: false
   default: ''
-- name: country
-  label: Country
-  type: text
-  hidden: false
-  default: ''
-- name: twitter
-  label: Twitter
-  type: text
-  hidden: false
-  default: ''
+  description: '01301'
 pages:
 - _data/information.yml
